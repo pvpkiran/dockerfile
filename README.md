@@ -16,5 +16,5 @@ docker images
 docker rm  
 docker rmi  
 
-docker events&
+docker events &  
 docker logs `<container id>`  
